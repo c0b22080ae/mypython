@@ -1,2 +1,4 @@
-これはテストですt
-gitとgithubを使用します
+goodmorning
+goodafternoon
+ローカルで編集しました。
+
